@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin/Release/net6.0/publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/649f7d5d-c621-41e6-998f-6aad8a2bb038/resourceGroups/TBD-applicationGateway/providers/Microsoft.Web/sites/acsa-websocket-echo"
+}
